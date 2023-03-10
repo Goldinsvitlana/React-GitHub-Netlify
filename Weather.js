@@ -84,7 +84,7 @@ export default function Weather() {
         </div>
   </div>
   <small>
-<a href="https://github.com/Goldinsvitlana/Vanilla-Weather-Search" target="_blank" rel="noreferrer">Open-source code</a> by Svitlana Goldin
+<a href="https://github.com/Goldinsvitlana/React-GitHub-Netlify" target="_blank" rel="noreferrer">Open-source code</a> by Svitlana Goldin
 </small>
       </div>
       
